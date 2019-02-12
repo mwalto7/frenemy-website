@@ -8,7 +8,7 @@ Repo for the Frenemy game website.
 
 2. Clone this repo:
 
-```
+```shell
 mkdir -p ~/go/src/github.com/mwalto7/frenemy-website
 git clone https://github.com/mwalto7/frenemy-website.git ~/go/src/github.com/mwalto7/frenemy-website
 code ~/go/src/github.com/mwalto7/frenemy-website # or open in your favorite text editor
