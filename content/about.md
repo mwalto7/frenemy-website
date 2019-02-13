@@ -15,7 +15,7 @@ Art | Design | Developer
 </div>
 
 <div>
-{{< figure src="https://via.placeholder.com/150" alt="Mason Walton" position="center" style="border-radius: 100px; margin: 0 auto;" caption="Mason Walton" captionPosition="right" captionStyle="font-size: 25px; font-weight: bold; text-align: center;" >}}
+{{< figure src="/img/mason.jpg" alt="Mason Walton" position="center" style="border-radius: 100px; margin: 0 auto;" caption="Mason Walton" captionPosition="right" captionStyle="font-size: 25px; font-weight: bold; text-align: center;" >}}
 Website | Developer
 </div>
 
@@ -25,7 +25,7 @@ Website | Design | Developer
 </div>
 
 <div>
-{{< figure src="https://via.placeholder.com/150" alt="Preston Moore" position="center" style="border-radius: 100px; margin: 0 auto;" caption="Preston Moore" captionPosition="right" captionStyle="font-size: 25px; font-weight: bold; text-align: center;" >}}
+{{< figure src="/img/preston.jpg" alt="Preston Moore" position="center" style="border-radius: 100px; margin: 0 auto;" caption="Preston Moore" captionPosition="right" captionStyle="font-size: 25px; font-weight: bold; text-align: center;" >}}
 Art | Design | Developer
 </div>
 
