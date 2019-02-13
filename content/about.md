@@ -8,40 +8,40 @@ We're a team of 6 developers who are trying to get an A+ in
 Video Game Design. We're responsible for building the website,
 creating the art, and coding great gameplay.
 
-<div style="text-align: center; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; padding: 15px;">
-<div style="margin: 20px;">
-{{< figure src="https://via.placeholder.com/150" alt="Cody Dronet" position="center" style="border-radius: 100px;" caption="Cody" captionPosition="right" captionStyle="font-size: 25px; font-weight: bold; text-align: center;" >}}
-*Roles...* <br/>
-Short bio.
+<div style="text-align: center; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<div>
+{{< figure src="https://via.placeholder.com/150" alt="Cody Dronet" position="center" style="border-radius: 100px; margin: 0 auto;" caption="Cody Dronet" captionPosition="right" captionStyle="font-size: 25px; font-weight: bold; text-align: center;" >}}
+Art | Design | Developer
+<p style="font-style: italic;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus dolor at mi dapibus tempus. Sed eget ultricies massa.</p>
 </div>
 
-<div style="margin: 20px;">
-{{< figure src="https://via.placeholder.com/150" alt="Mason Walton" position="left" style="border-radius: 100px;" caption="Mason" captionPosition="left" captionStyle="font-size: 25px; font-weight: bold; text-align: center;" >}}
-*Roles...* <br/>
-Short bio.
+<div>
+{{< figure src="https://via.placeholder.com/150" alt="Mason Walton" position="center" style="border-radius: 100px; margin: 0 auto;" caption="Mason Walton" captionPosition="right" captionStyle="font-size: 25px; font-weight: bold; text-align: center;" >}}
+Website | Developer
+<p style="font-style: italic;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus dolor at mi dapibus tempus. Sed eget ultricies massa.</p>
 </div>
 
-<div style="margin: 20px;">
-{{< figure src="https://via.placeholder.com/150" alt="Michael Christian" position="left" style="border-radius: 100px;" caption="Michael" captionPosition="left" captionStyle="font-size: 25px; font-weight: bold; text-align: center;" >}}
-*Roles...* <br/>
-Short bio.
+<div>
+{{< figure src="https://via.placeholder.com/150" alt="Michael Christian" position="center" style="border-radius: 100px; margin: 0 auto;" caption="Michael Christian" captionPosition="right" captionStyle="font-size: 25px; font-weight: bold; text-align: center;" >}}
+Art | Design | Developer
+<p style="font-style: italic;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus dolor at mi dapibus tempus. Sed eget ultricies massa.</p>
 </div>
 
-<div style="margin: 20px;">
-{{< figure src="https://via.placeholder.com/150" alt="Quoc Than" position="center" style="border-radius: 100px;" caption="Quoc" captionPosition="right" captionStyle="font-size: 25px; font-weight: bold; text-align: center;" >}}
-*Roles...* <br/>
-Short bio.
+<div>
+{{< figure src="https://via.placeholder.com/150" alt="Preston Moore" position="center" style="border-radius: 100px; margin: 0 auto;" caption="Preston Moore" captionPosition="right" captionStyle="font-size: 25px; font-weight: bold; text-align: center;" >}}
+Art | Design | Developer
+<p style="font-style: italic;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus dolor at mi dapibus tempus. Sed eget ultricies massa.</p>
 </div>
 
-<div style="margin: 20px;">
-{{< figure src="https://via.placeholder.com/150" alt="Preston Moore" position="left" style="border-radius: 100px;" caption="Preston" captionPosition="left" captionStyle="font-size: 25px; font-weight: bold; text-align: center;" >}}
-*Roles...* <br/>
-Short bio.
+<div>
+{{< figure src="https://via.placeholder.com/150" alt="Quoc Than" position="center" style="border-radius: 100px; margin: 0 auto;" caption="Quoc Than" captionPosition="right" captionStyle="font-size: 25px; font-weight: bold; text-align: center;" >}}
+Art | Design | Developer
+<p style="font-style: italic;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus dolor at mi dapibus tempus. Sed eget ultricies massa.</p>
 </div>
 
-<div style="margin: 20px;">
-{{< figure src="https://via.placeholder.com/150" alt="Tanmay Chouhan" position="left" style="border-radius: 100px;" caption="Tanmay" captionPosition="left" captionStyle="font-size: 25px; font-weight: bold; text-align: center;" >}}
-*Roles...* <br/>
-Short bio.
+<div>
+{{< figure src="https://via.placeholder.com/150" alt="Tanmay Chouhan" position="center" style="border-radius: 100px; margin: 0 auto;" caption="Tanmay Chouhan" captionPosition="right" captionStyle="font-size: 25px; font-weight: bold; text-align: center;" >}}
+Art | Design | Developer
+<p style="font-style: italic;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus dolor at mi dapibus tempus. Sed eget ultricies massa.</p>
 </div>
 </div>
