@@ -10,8 +10,10 @@ Repo for the Frenemy game website.
 
 ```shell
 mkdir -p ~/go/src/github.com/mwalto7/frenemy-website
-git clone https://github.com/mwalto7/frenemy-website.git ~/go/src/github.com/mwalto7/frenemy-website
-code ~/go/src/github.com/mwalto7/frenemy-website # or open in your favorite text editor
+cd ~/go/src/github.com/mwalto7/frenemy-website
+git clone https://github.com/mwalto7/frenemy-website.git .
+git clone https://github.com/panr/hugo-theme-terminal.git themes/terminal
+code . # or open in your favorite text editor
 ```
 
 3. Checkout a new branch with your name (i.e., `git checkout -b <your-name>`). 
