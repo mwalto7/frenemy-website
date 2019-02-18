@@ -15,8 +15,7 @@ paginate = 5
   [languages.en]
     title = "Frenemy"
     subtitle = "A free-for-all with friends"
-    keywords = ""
-    copyright = ""
+    copyright = "Copyright &copy; 2019 Rampant Co."
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
