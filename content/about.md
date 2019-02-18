@@ -88,6 +88,6 @@ creating the art, and coding great gameplay.
         captionPosition="right" 
         captionStyle="font-size: 25px; font-weight: bold; text-align: center;" 
     >}}
-    Art | Design | Developer
+    MIA
 </div>
 </div>
