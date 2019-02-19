@@ -67,7 +67,7 @@ creating the art, and coding great gameplay.
 
 <div>
     {{< figure 
-        src="https://via.placeholder.com/150" 
+        src="/img/quoc.jpg" 
         alt="Quoc Than"
         position="center" 
         style="border-radius: 100px; margin: 0 auto;" 
@@ -80,7 +80,7 @@ creating the art, and coding great gameplay.
 
 <div>
     {{< figure 
-        src="https://via.placeholder.com/150" 
+        src="/img/tanmay.jpg" 
         alt="Tanmay Chouhan"
         position="center" 
         style="border-radius: 100px; margin: 0 auto;" 
