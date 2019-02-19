@@ -11,7 +11,7 @@ creating the art, and coding great gameplay.
 <div style="text-align: center; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 <div>
     {{< figure 
-        src="https://via.placeholder.com/150" 
+        src="/img/cody.jpg" 
         alt="Cody Dronet"
         position="center" 
         style="border-radius: 100px; margin: 0 auto;" 
