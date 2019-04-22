@@ -1,7 +1,7 @@
 ---
 title: "Release Day"
 date: 2019-04-20T15:35:42-06:00
-cover: "/img/coming-soon-cover.png"
+cover: "/img/final-cover.jpg"
 ---
 
 Rampant Co. is proud to announce the release of our 2D free-for-all
